@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Anupam Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Backend Developer from India</h3>
 
-- 🔭 I’m currently working on **AERO**
+- 🔭 I’m currently working on **Vellum**
 
 - 🌱 I’m currently learning **Spring Boot**
 
